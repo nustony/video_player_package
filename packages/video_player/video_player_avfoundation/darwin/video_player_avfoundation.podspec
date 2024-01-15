@@ -12,7 +12,7 @@ Downloaded by pub (not CocoaPods).
   s.homepage         = 'https://github.com/flutter/packages'
   s.license          = { :type => 'BSD', :file => '../LICENSE' }
   s.author           = { 'Flutter Dev Team' => 'flutter-dev@googlegroups.com' }
-  s.source           = { :http => 'https://github.com/flutter/packages/tree/main/packages/video_player/video_player_avfoundation' }
+  s.source           = { :http => 'https://github.com/nustony/video_player_package/tree/main/packages/video_player/video_player_avfoundation' }
   s.documentation_url = 'https://pub.dev/packages/video_player'
   s.source_files = 'Classes/*'
   s.ios.source_files = 'Classes/ios/*'
