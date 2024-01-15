@@ -558,6 +558,9 @@ NS_INLINE CGFloat radiansToDegrees(CGFloat radians) {
     return;
   }
 
+  if (@available(iOS 16.0, *)) {
+    _player.defaultRate = speed;
+  }
   _player.rate = speed;
 }
 
