@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 A Flutter plugin for playing back video on a Widget surface.
 Downloaded by pub (not CocoaPods).
                        DESC
-  s.homepage         = 'https://github.com/flutter/packages'
+  s.homepage         = 'https://github.com/nustony/video_player_package'
   s.license          = { :type => 'BSD', :file => '../LICENSE' }
   s.author           = { 'Flutter Dev Team' => 'flutter-dev@googlegroups.com' }
   s.source           = { :http => 'https://github.com/nustony/video_player_package/tree/main/packages/video_player/video_player_avfoundation' }
